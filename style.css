@@ -1,0 +1,24 @@
+body{
+    transition: all 0.3s ease-in-out;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-size: 3rem;
+}
+
+button{
+    font-size: 2rem;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.output{
+    font-size: 3rem;
+}
